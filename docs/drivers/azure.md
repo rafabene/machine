@@ -37,7 +37,7 @@ Options:
 -   `--azure-image`: Azure image name. See [How to: Get the Windows Azure Image Name](https://msdn.microsoft.com/en-us/library/dn135249%28v=nav.70%29.aspx)
 -   `--azure-location`: Machine instance location.
 -   `--azure-password`: Your Azure password.
--   `--azure-publish-settings-file`: Azure setting file. See [How to: Download and Import Publish Settings and Subscription Information](https://msdn.microsoft.com/en-us/library/dn385850%28v=nav.70%29.aspx)
+-   `--azure-publish-settings-file`: Azure setting file. See [Download Publish Settings and Subscription Information](https://manage.windowsazure.com/PublishSettings/)
 -   `--azure-size`: Azure disk size.
 -   `--azure-ssh-port`: Azure SSH port.
 -   `--azure-subscription-id`: **required** Your Azure subscription ID (A GUID like `d255d8d7-5af0-4f5c-8a3e-1545044b861e`).
